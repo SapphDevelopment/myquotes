@@ -1,5 +1,5 @@
 {
-  "name": "quote.js",
+  "name": "quotes.js",
   "version": "1.0.0",
   "description": "Get a random quote",
   "type": "module",
