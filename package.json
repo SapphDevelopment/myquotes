@@ -1,6 +1,6 @@
 {
   "name": "myquotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a quote, authoer for a quote or a category!",
   "type": "module",
   "main": "src/index.js",
