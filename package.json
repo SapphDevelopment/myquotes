@@ -1,0 +1,26 @@
+{
+  "name": "quote.js",
+  "version": "1.0.0",
+  "description": "Get a random quote",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaturnsDevelopment/quote-js.git"
+  },
+  "keywords": [
+    "quotes",
+    "quote",
+    "quote.js",
+    "javascript"
+  ],
+  "author": "Ducko#7068",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaturnsDevelopment/quote-js/issues"
+  },
+  "homepage": "https://github.com/SaturnsDevelopment/quote-js#readme"
+}
