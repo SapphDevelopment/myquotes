@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaturnsDevelopment/quote-js.git"
+    "url": "git+https://github.com/SaturnsDevelopment/quotes-js.git"
   },
   "keywords": [
     "quotes",
@@ -20,7 +20,7 @@
   "author": "Ducko#7068",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SaturnsDevelopment/quote-js/issues"
+    "url": "https://github.com/SaturnsDevelopment/quotes-js/issues"
   },
-  "homepage": "https://github.com/SaturnsDevelopment/quote-js#readme"
+  "homepage": "https://github.com/SaturnsDevelopment/quotes-js#readme"
 }
