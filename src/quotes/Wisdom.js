@@ -19,6 +19,11 @@ const wisdomQuotes = [
     quote: "The only true wisdom is in knowing you know nothing.",
     category: "Wisdom",
   },
+  {
+    author: "William Shakespeare,
+    quote: "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+    category: "Wisdom",
+  },
 ];
 
 export default wisdomQuotes;
