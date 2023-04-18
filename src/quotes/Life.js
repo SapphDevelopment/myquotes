@@ -43,6 +43,24 @@ const lifeQuotes = [
       "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
     category: "Life",
   },
+  {
+    author: "Madara Uchiha",
+    quote:
+      "Wake up to reality! Nothing ever goes as planned in this accursed world.",
+    category: "Life",
+  },
+  {
+    author: "Mae West",
+    quote:
+      "You only live once, but if you do it right, once is enough.",
+    category: "Life",
+  },
+  {
+    author: "Albert Einstein",
+    quote:
+      "If you want to live a happy life, tie it to a goal, not to people or things.",
+    category: "Life",
+  },
 ];
 
 export default lifeQuotes;
