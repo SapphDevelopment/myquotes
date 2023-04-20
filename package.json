@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SaturnsDevelopment/myquotes/issues"
   },
-  "homepage": "https://github.com/SaturnsDevelopment/myquotes#readme"
+  "homepage": "https://github.com/SaturnsDevelopment/myquotes#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.12"
+  }
 }
