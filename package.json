@@ -5,7 +5,7 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/test.js"
+    "test": "node dist/test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/SaturnsDevelopment/myquotes/issues"
   },
-  "homepage": "https://github.com/SaturnsDevelopment/myquotes#readme"
+  "homepage": "https://github.com/SaturnsDevelopment/myquotes#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
