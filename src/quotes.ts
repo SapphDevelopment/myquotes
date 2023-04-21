@@ -290,6 +290,18 @@ const quotes: Quote[] = [
     category: "Love",
     tags: ["love", "feelings"],
   },
+  {
+    text: "There are no goodbyes for us. Wherever you are, you will always be in my heart.",
+    author: "Rinaa#0007",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "Beauty is not in the face; beauty is a light in the heart.",
+    author: "Rinaa#0007",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
   /**
    * Motivational Quotes
    */
