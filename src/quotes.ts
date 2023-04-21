@@ -302,6 +302,60 @@ const quotes: Quote[] = [
     category: "Love",
     tags: ["love", "feelings"],
   },
+  {
+    text: "Love is like the wind, you can't see it but you can feel it.",
+    author: "Nicholas Sparks",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "In love there are two things: bodies and words.",
+    author: "Joyce Carol Oates",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "Continue to share your heart with people even if it has been broken.",
+    author: "Amy Poehler",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "Love is such a powerful force. It's there for everyone to embrace-that kind of unconditional love for all of humankind. That is the kind of love that impels people to go into the community and try to change conditions for others, to take risks for what they believe in.",
+    author: "Coretta Scott King",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "To love is to recognize yourself in another.",
+    author: "Eckhart Tolle",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "To be fully seen by somebody, then, and be loved anyhow - this is a human offering that can border on miraculous.",
+    author: "Elizabeth Gilbert",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "Love has nothing to do with what you are expecting to get — only with what you are expecting to give — which is everything.",
+    author: "Katharine Hepburn",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "Where there is great love, there are always miracles.",
+    author: "Willa Cather",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
+  {
+    text: "In real love, you want the other person's good. In romantic love, you want the other person.",
+    author: "Margaret Anderson",
+    category: "Love",
+    tags: ["love", "feelings"],
+  },
   /**
    * Motivational Quotes
    */
